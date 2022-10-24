@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.is;
 
 public class RestricoesTest extends BaseTest {
 
-    private static final String CPF_SEM_RESTRICAO = "02886342092";
+    private static final String CPF_SEM_RESTRICAO = "62862138053";
     private static final String CPF_COM_RESTRICAO = "97093236014";
 
     @Test(groups = { "health_check" })
